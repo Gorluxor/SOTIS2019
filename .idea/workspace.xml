@@ -2,130 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d70248c2-1549-409c-ba61-26ade5f0f512" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cluster.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 10_output.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 10_output_g.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 11_output.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 11_output_g.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 12_output.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 12_output_g.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 13_output.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 13_output_g.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 14_output.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 14_output_g.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 15_output.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 15_output_g.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 16_output.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 16_output_g.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 17_output.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 17_output_g.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 18_output.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 18_output_g.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 19_output.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 19_output_g.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 20_output.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 20_output_g.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 21_output.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 21_output_g.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 22_output.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 22_output_g.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 23_output.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 23_output_g.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 24_output.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 24_output_g.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 25_output.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 25_output_g.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 3_output.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 3_output_g.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 4_output.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 4_output_g.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 5_output.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 5_output_g.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 6_output.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 6_output_g.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 7_output.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 7_output_g.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 8_output.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 8_output_g.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 9_output.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/User 9_output_g.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question_time.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/User 13_all_gaze.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user10/Data_Summary_export_12-26-19-21.27.24.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user10/User 10_all_gaze.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user10/User 10_fixations.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user11/Data_Summary_export_12-26-19-21.53.52.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user11/User 11_all_gaze.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user11/User 11_fixations.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user12/Data_Summary_export_12-26-19-22.19.46.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user12/User 12_all_gaze.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user12/User 12_fixations.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user13/Data_Summary_export_12-26-19-21.36.05.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user13/User 13_all_gaze.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user13/User 13_fixations.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user14/Data_Summary_export_12-26-19-16.52.18.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user14/User 14_all_gaze.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user14/User 14_fixations.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user15/Data_Summary_export_12-26-19-17.31.47.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user15/User 15_all_gaze.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user15/User 15_fixations.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user16/Data_Summary_export_12-26-19-17.52.44.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user16/User 16_all_gaze.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user16/User 16_fixations.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user17/Data_Summary_export_12-26-19-18.07.37.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user17/User 17_all_gaze.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user17/User 17_fixations.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user18/Data_Summary_export_12-26-19-18.27.16.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user18/User 18_all_gaze.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user18/User 18_fixations.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user19/Data_Summary_export_12-26-19-19.47.59.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user19/User 19_all_gaze.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user19/User 19_fixations.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user20/Data_Summary_export_12-26-19-20.00.36.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user20/User 20_all_gaze.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user20/User 20_fixations.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user21/Data_Summary_export_12-26-19-20.14.19.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user21/User 21_all_gaze.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user21/User 21_fixations.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user22/Data_Summary_export_12-26-19-20.25.52.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user22/User 22_all_gaze.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user22/User 22_fixations.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user23/Data_Summary_export_12-26-19-20.39.38.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user23/User 23_all_gaze.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user23/User 23_fixations.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user24/Data_Summary_export_12-26-19-20.56.12.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user24/User 24_all_gaze.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user24/User 24_fixations.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user25/Data_Summary_export_12-26-19-21.20.15.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user25/User 25_all_gaze.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user25/User 25_fixations.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user3/Data_Summary_export_12-26-19-17.00.42.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user3/User 3_all_gaze.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user3/User 3_fixations.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user4/Data_Summary_export_12-26-19-17.20.29.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user4/User 4_all_gaze.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user4/User 4_fixations.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user5/Data_Summary_export_12-26-19-17.48.43.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user5/User 5_all_gaze.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user5/User 5_fixations.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user6/Data_Summary_export_12-26-19-19.46.45.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user6/User 6_all_gaze.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user6/User 6_fixations.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user7/Data_Summary_export_12-26-19-20.06.42.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user7/User 7_all_gaze.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user7/User 7_fixations.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user8/Data_Summary_export_12-26-19-20.26.07.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user8/User 8_all_gaze.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user8/User 8_fixations.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user9/Data_Summary_export_12-26-19-21.02.27.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user9/User 9_all_gaze.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sotis/data/user9/User 9_fixations.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/time.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/User 1_all_gaze.csv" beforeDir="false" afterPath="$PROJECT_DIR$/User 1_all_gaze.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cluster.py" beforeDir="false" afterPath="$PROJECT_DIR$/cluster.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/regions.csv" beforeDir="false" afterPath="$PROJECT_DIR$/regions.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/User 10_output_g.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/User 10_output_g.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/User 11_output_g.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/User 11_output_g.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/User 12_output_g.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/User 12_output_g.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/User 13_output_g.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/User 13_output_g.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/User 14_output_g.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/User 14_output_g.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/User 15_output_g.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/User 15_output_g.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/User 16_output_g.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/User 16_output_g.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/User 17_output_g.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/User 17_output_g.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/User 18_output_g.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/User 18_output_g.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/User 19_output_g.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/User 19_output_g.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/User 20_output_g.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/User 20_output_g.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/User 21_output_g.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/User 21_output_g.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/User 22_output_g.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/User 22_output_g.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/User 23_output_g.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/User 23_output_g.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/User 24_output_g.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/User 24_output_g.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/User 25_output_g.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/User 25_output_g.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/User 3_output_g.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/User 3_output_g.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/User 4_output_g.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/User 4_output_g.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/User 5_output_g.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/User 5_output_g.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/User 6_output_g.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/User 6_output_g.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/User 7_output_g.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/User 7_output_g.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/User 8_output_g.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/User 8_output_g.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/User 9_output_g.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/User 9_output_g.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +56,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/sotis" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../master_project/converting_rs_legal_acts_to_akoma_ntoso" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -166,7 +68,7 @@
       <recent name="C:\Users\Predator\PycharmProjects\untitled1\sotis\data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.cluster">
     <configuration name="Test" type="PythonConfigurationType" factoryName="Python">
       <module name="untitled1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -188,6 +90,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="cluster" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cluster.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -201,6 +124,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="stefi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stefi.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,10 +178,14 @@
       <item itemvalue="Python.Test" />
       <item itemvalue="Python.main" />
       <item itemvalue="Python.test" />
+      <item itemvalue="Python.stefi" />
+      <item itemvalue="Python.cluster" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.cluster" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.stefi" />
         <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
@@ -275,56 +223,56 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575462028555" />
-    <state width="1341" height="466" key="DebuggerActiveHint" timestamp="1581784354562">
+    <state width="1466" height="466" key="DebuggerActiveHint" timestamp="1583061363196">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1341" height="466" key="DebuggerActiveHint/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1580595460426" />
-    <state width="1341" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1581784354562" />
-    <state x="-1180" y="274" key="FileChooserDialogImpl" timestamp="1577036448016">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state width="1466" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1583061363196" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1582105495009">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1180" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1577036448016" />
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1575461944209" />
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1581966662824">
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582105495009" />
+    <state width="1877" height="340" key="GridCell.Tab.0.bottom" timestamp="1583344502798">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1580737646487" />
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581966662824" />
-    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1581966662823">
+    <state width="1877" height="340" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583344502798" />
+    <state width="1877" height="340" key="GridCell.Tab.0.center" timestamp="1583344502797">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1580737646486" />
-    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581966662823" />
-    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1581966662823">
+    <state width="1877" height="340" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583344502797" />
+    <state width="1877" height="340" key="GridCell.Tab.0.left" timestamp="1583344502796">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1580737646486" />
-    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581966662823" />
-    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1581966662823">
+    <state width="1877" height="340" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583344502796" />
+    <state width="1877" height="340" key="GridCell.Tab.0.right" timestamp="1583344502798">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1580737646487" />
-    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581966662823" />
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1581788820713">
+    <state width="1877" height="340" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583344502798" />
+    <state width="1877" height="340" key="GridCell.Tab.1.bottom" timestamp="1583344502799">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1580729707773" />
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581788820713" />
-    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1581788820712">
+    <state width="1877" height="340" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583344502799" />
+    <state width="1877" height="340" key="GridCell.Tab.1.center" timestamp="1583344502798">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1580729707773" />
-    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581788820712" />
-    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1581788820712">
+    <state width="1877" height="340" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583344502798" />
+    <state width="1877" height="340" key="GridCell.Tab.1.left" timestamp="1583344502798">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1580729707772" />
-    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581788820712" />
-    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1581788820712">
+    <state width="1877" height="340" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583344502798" />
+    <state width="1877" height="340" key="GridCell.Tab.1.right" timestamp="1583344502799">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1580729707773" />
-    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581788820712" />
+    <state width="1877" height="340" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583344502799" />
     <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1581083012176">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -346,13 +294,18 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/main.py</url>
-          <line>73</line>
-          <option name="timeStamp" value="24" />
+          <line>95</line>
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>55</line>
-          <option name="timeStamp" value="27" />
+          <url>file://$PROJECT_DIR$/cluster.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cluster.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

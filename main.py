@@ -28,6 +28,9 @@ for index, row in first.iterrows():
     frist_question_start = strtottime(row[1])
     timeperquestion = []
     previoustime = 0
+
+    avg_time = 0
+
     for datarow in current_file.itertuples():
         if datarow.FPOGV == 0:
             continue
@@ -67,15 +70,28 @@ for index, row in first.iterrows():
             #rdata.append(deq) #u slucaju svih podataka
 
     ofile = open("output/User {0}_output_g.csv".format(row[0]), "w")
-    ofile.write("Seq, time, fpogx, fpogy, fpogd, s\n")
+    ofile.write("Seq, fpogx, fpogy, fpogd, s\n")
     print("Writing to file {0}".format(row[0]))
     # u slucaju grupisanja
     pan = pd.DataFrame(rdata, columns=['Seq','Time', 'TimeTick', 'Fpogx', 'Fpogy', 'Fpogd', 'Fpogv', 'Region'])
     pan = pan.sort_values(by=['TimeTick'], ascending=True)
     a = 0
     i = 0
+    pd.set_option('display.max_rows', 500)
+    pd.set_option('display.max_columns', 500)
+    pd.set_option('display.width', 1000)
+
+    #print(pan.describe())
+    #avg_time = pan['Fpogd'].mean()
+    bin_labels = ['0', '1', '2'] #['brzo', 'prosecno', 'sporo'] #
+    # pan['Fpogd2'] = pd.qcut(pan['Fpogd'], 3,
+    #                               #q=[0, .2, .4, .6, .8, 1],
+    #                               labels=bin_labels)
+
+    pan['Fpogd'] = pd.qcut(pan['Fpogd'], 3, labels=bin_labels)
+
+    #print(pan)
+
     for seq, time, timetick, fpogx, fpogy, fpogd, fpogv, s in pan.values.tolist():#rdata:  #pan.values.tolist(): # u slucaju grupisanja
-        a = a + fpogd
-        i = i + 1
-        ofile.write("{0},{1},{3},{4},{5}\n".format(seq, round(time, 5), round(fpogx, 5), round(fpogy, 5), round(fpogd, 5), s))
-    print(a/i)
+        ofile.write("{0},{2},{3},{4},{5}\n".format(seq, round(time, 5), round(abs(fpogx), 5), round(abs(fpogy), 5), int(fpogd), s))
+
